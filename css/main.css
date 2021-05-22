@@ -5152,10 +5152,21 @@ dl.toggle.time-line:before {
     background-color: #7fad39 !important;
 }
 .btn-details{
-	border-radius:1rem;
-	font-size:13px
+	border-radius:.4rem;
+	font-size:13px;
+	padding:2px 7px;
 }
 h4 i {
 	font-size:40px;
 	color:#7fad39;
+}
+.info{
+	background-color:#17a2b8;
+}
+.cal{
+	background-color:#d39e00 !important;
+}
+.img-fluid{
+	height:200px;
+	width:200px
 }

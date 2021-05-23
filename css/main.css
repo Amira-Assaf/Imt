@@ -2107,6 +2107,7 @@ h6 {
 
 .header-top a {
     color: #fff
+
 }
 
 .header-top ul li {
@@ -2122,7 +2123,8 @@ h6 {
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
-    transition: all 0.3s ease 0s
+    transition: all 0.3s ease 0s;
+	font-size:15px;
 }
 
 .header-top .header-top-left a {

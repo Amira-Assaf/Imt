@@ -1165,7 +1165,7 @@ h6 {
 }
 
 .genric-btn.info {
-    color: #fff;
+    color: #fff !important;
     background: #38a4ff;
     border: 1px solid transparent
 }
@@ -5163,10 +5163,23 @@ h4 i {
 .info{
 	background-color:#17a2b8;
 }
+.info:hover{
+	background-color:#258ade !important;
+}
 .cal{
 	background-color:#d39e00 !important;
+	color:white !important;
+}
+.cal:hover{
+	background-color:#c19205 !important;
+}
+.book{
+	color:white !important;
+}
+.book:hover{
+	background-color:#678e2d !important;
 }
 .img-fluid{
-	height:200px;
+	height:250px;
 	width:200px
 }
